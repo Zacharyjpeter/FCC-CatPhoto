@@ -7,7 +7,7 @@ My very first project. A simple site for people who love cats. I learned the bas
 --->
 <br>
 <br>
-My biggest challenge was understanding how forms work. The difference between id, name, and value confused me. I also had trouble with using the "for" attribute in the labels. After researching online, I was able to separate the differences.
+My biggest challenge was understanding how forms work. The difference between id, name, and value confused me. I also made the rookie mistake of not pushing the project to Github until it was finished. That's why there's no commit history.
 <br>
 <br>
 Based on <a href="https://www.freecodecamp.org">FreeCodeCamp's</a> Responsive Web Design course.

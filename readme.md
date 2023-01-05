@@ -2,9 +2,7 @@
 My very first project. A simple site for people who love cats. I learned the basics of HTML by building this. 
 <br>
 <br>
-<!---
-"View the live site" insert web link here. Once we figure out how to do that...
---->
+View <a href="https://zacharyjpeter.github.io/FCC-CatPhoto">the finished project</a> here
 <br>
 <br>
 My biggest challenge was understanding how forms work. The difference between id, name, and value confused me. I also made the rookie mistake of not pushing the project to Github until it was finished. That's why there's no commit history.
